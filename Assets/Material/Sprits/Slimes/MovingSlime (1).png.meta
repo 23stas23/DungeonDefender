@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 530f7ccc75d142840bdee464639082e9
+guid: 81237e80f59bedd4494d13c9c0553589
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 47
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MovingSlime_0
+      name: MovingSlime (1)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -124,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60d5d8f71cd0df34989f31a8a7ee94de
-      internalID: -1787799112
+      spriteID: 374cbe9f9659ea749b51e084cd064cc5
+      internalID: -348745649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MovingSlime_1
+      name: MovingSlime (1)_1
       rect:
         serializedVersion: 2
         x: 32
@@ -145,14 +145,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22d3cb023a05de043ba4521836f684be
-      internalID: -269326179
+      spriteID: 8759af59c856b8f41a558d538b5cdcb4
+      internalID: 1507625689
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MovingSlime_2
+      name: MovingSlime (1)_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6c5a37f0bc6384ba035bfd49b0a10f
+      internalID: 169447035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingSlime (1)_3
       rect:
         serializedVersion: 2
         x: 0
@@ -166,14 +187,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f646cb08b9c7fd49b18d966a498ad0d
-      internalID: -1329097513
+      spriteID: 7c7e5bcefd7d1d64a9fb98dc8db4ba61
+      internalID: -666329906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MovingSlime_3
+      name: MovingSlime (1)_4
       rect:
         serializedVersion: 2
         x: 32
@@ -187,14 +208,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 890c5775f04885647b79d03221c17f91
-      internalID: -28604066
+      spriteID: a3dbdadb391be3d418dd2d524b85757f
+      internalID: 1417172296
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MovingSlime_4
+      name: MovingSlime (1)_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c472a47645684546a214d3ced1b5e3f
+      internalID: 733967720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingSlime (1)_6
       rect:
         serializedVersion: 2
         x: 0
@@ -208,14 +250,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aefcc4fb0a4a4ec4f84e920de7f0fa67
-      internalID: -547573201
+      spriteID: 423be34fb01b79749b95815dadb65140
+      internalID: -1696178504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MovingSlime_5
+      name: MovingSlime (1)_7
       rect:
         serializedVersion: 2
         x: 32
@@ -229,8 +271,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e69ea03f45941242a5cf6cd315ebdb6
-      internalID: -184733296
+      spriteID: aebf507feb7675a4a9db1448db8c7069
+      internalID: 79425539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingSlime (1)_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6179dc41cdf2d44286dfeaba7225e71
+      internalID: 1285588706
       vertices: []
       indices: 
       edges: []
@@ -246,12 +309,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      MovingSlime_0: -1787799112
-      MovingSlime_1: -269326179
-      MovingSlime_2: -1329097513
-      MovingSlime_3: -28604066
-      MovingSlime_4: -547573201
-      MovingSlime_5: -184733296
+      MovingSlime (1)_0: -348745649
+      MovingSlime (1)_1: 1507625689
+      MovingSlime (1)_2: 169447035
+      MovingSlime (1)_3: -666329906
+      MovingSlime (1)_4: 1417172296
+      MovingSlime (1)_5: 733967720
+      MovingSlime (1)_6: -1696178504
+      MovingSlime (1)_7: 79425539
+      MovingSlime (1)_8: 1285588706
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
